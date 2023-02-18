@@ -54,16 +54,14 @@ section h1{
 
 footer{
     height: 10vh;
-    background-color: #0b2a4b;
+    background-color: #fff;
     width: 100%;
 }
 
 footer.copyright{
-    color: #f3eded;
+    color: #161515;
     font-size: 12px;
     padding-top: 2.5rem;
     letter-spacing: 1px;
     text-align: center;
-
-
 }
