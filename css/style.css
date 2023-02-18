@@ -1,3 +1,68 @@
-h1{
-    color: #d30e0e;
+section{
+    text-align: center;
+    padding: 100px 0;
+}
+
+section h1{
+    font-size: 40px;
+    line-height: 40px;
+    margin: 0 0 80px 0;
+}
+
+.box{
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+#sec1{
+    background: url(../img/TOP.jpg) no-repeat center center;
+    height: 80vh;
+    background-size: cover;
+}
+
+#sec1 .top_text{
+    font-size: 72px;
+    color: #fff;
+    padding: 20vh 0 0 0;
+}
+
+#sec3{
+    background-color: #c1e5dc;
+}
+
+#sec3 .profile img{
+    height: 160px;
+    width: 160px;
+    border-radius: 50%;
+    border: #fff;
+}
+
+#sec3 .profile_name{
+    text-align: center;
+    font-size: bold;
+    font-size: 1.2rem;
+    margin: 1rem auto 1rem;
+    letter-spacing: 0.1rem;
+}
+
+#sec3 .profile_text{
+    margin: 0 auto;
+    width: 50vh;
+    line-height: 1.6;
+    text-align: left;
+}
+
+footer{
+    height: 10vh;
+    background-color: #0b2a4b;
+    width: 100%;
+}
+
+footer.copyright{
+    color: #f3eded;
+    font-size: 12px;
+    padding-top: 30px;
+    letter-spacing: 2.5rem;
+    
+
 }
